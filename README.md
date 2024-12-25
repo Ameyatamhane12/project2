@@ -1,4 +1,4 @@
 # New Project 
 
 This project was created for local system.
-Created by Ameya Tamhane
+Created by Ameya Tamhane.
